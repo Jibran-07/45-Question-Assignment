@@ -1,0 +1,10 @@
+let fav_place:string[] = ["Maldives","Istanbul","Rome","Paris","Venice"]
+console.log(fav_place)
+console.log([...fav_place].sort())
+console.log(fav_place)
+console.log([...fav_place].reverse())
+console.log(fav_place)
+console.log(fav_place.reverse())
+console.log(fav_place.reverse())
+console.log(fav_place.sort())
+console.log(fav_place.reverse())
